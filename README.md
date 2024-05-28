@@ -11,7 +11,7 @@ Ensure you have Python installed (preferably version 3.6 or higher). The require
 - NumPy
 - Scikit-Learn
 
-## Input Parameters
+### Input Parameters
 -Semi-Major Axis (AU): Semi-major axis of the orbit.
 -Eccentricity: Measure of the orbit's deviation from circularity.
 -Inclination (deg): Angle between the orbital plane and the reference plane.
@@ -22,7 +22,7 @@ Ensure you have Python installed (preferably version 3.6 or higher). The require
 -Aphelion Distance (AU): Farthest point of the orbit from the sun.
 -Orbital Period (yr): Time taken for one complete orbit.
 
-## Output
+### Output
 The app will display the predicted satellite coordinates for three future time intervals:
 
 -Coordinates for 3rd Month: X, Y, Z
